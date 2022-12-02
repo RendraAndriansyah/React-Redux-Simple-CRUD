@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Short Jeans",
+      "price": "599"
+    },
+    {
+      "id": 2,
+      "title": "T-shirt",
+      "price": 249
+    },
+    {
+      "id": 4,
+      "title": "belt",
+      "price": 599
+    },
+    {
+      "id": 5,
+      "title": "Hat",
+      "price": 199
+    },
+    {
+      "title": "Underwear",
+      "price": "249",
+      "id": 6
+    }
+  ]
+}
